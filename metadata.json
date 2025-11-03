@@ -1,0 +1,5 @@
+{
+  "name": "NOVARIC NVX dApp",
+  "description": "An AI-assisted Proof-of-Liquidity and Token Intelligence Dashboard for the NOVARIC (NVX) token, using Google Gemini for real-time, verifiable insights into liquidity, security, and market sentiment.",
+  "requestFramePermissions": []
+}
